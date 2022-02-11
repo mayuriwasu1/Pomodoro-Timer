@@ -1,4 +1,4 @@
-![glimpse](https://github.com/mayuriwasu1/CSS-mini-projects/blob/main/image_gallery/image1.png)
+![glimpse](https://github.com/mayuriwasu1/Pomodoro-Timer/blob/main/public/time.png)
 
 
 
