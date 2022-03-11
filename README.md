@@ -1,7 +1,7 @@
 
 ## Tech Stack 
 
-- `React`, `Redux`, `Material UI`
+- `React`, `Material UI`
 
 Link :  https://react-hook-timer.netlify.app
 
